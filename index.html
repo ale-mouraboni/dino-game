@@ -3,15 +3,69 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="assets/css/style.css">
+    <style>
+        body {
+            text-align: center;
+            background-color: #a3e2ff;
+        }
+        h1 {
+            margin-top: 50px;
+            margin-bottom: 50px;
+        }
+        .myversion {
+            background-color: blue;
+            width: 150px;
+            border: 1px solid darkblue;
+            padding: 10px 10px;
+            border-radius: 30px;
+            color: white;
+            font-size: 20px;
+            text-transform: uppercase;
+            outline: none;
+            transition: .2s;
+        }
+        .myversion:hover {
+            background-color: darkblue;
+            border: 1px solid darkblue;
+            transition: .2s;
+            cursor: pointer;
+        }
+        .classic {
+            margin-bottom: 30px;
+            background-color: red;
+            width: 150px;
+            border: 1px solid darkred;
+            padding: 10px 10px;
+            border-radius: 30px;
+            color: white;
+            font-size: 20px;
+            text-transform: uppercase;
+            outline: none;
+            transition: .2s;
+        }
+        .classic:hover {
+            background-color: darkred;
+            border: 1px solid darkred;
+            transition: .2s;
+            cursor: pointer;
+        }
+    </style>
     <title>Dinossaur Game</title>
 </head>
 <body>
-    <div class="background">
-        <div class="dino">
-            
-        </div>
-    </div>    
-    <script src="assets/js/main.js"></script>
+    <h1>
+        Escolha qual versão do Jogo do Dinossauro você quer jogar.
+    </h1>
+    <a href="">
+        <button class="classic">
+            Classic
+        </button>
+    </a>
+    </br>
+    <a href="">
+        <button class="myversion">
+            My Version
+        </button>
+    </a>
 </body>
 </html>

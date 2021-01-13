@@ -44,3 +44,22 @@ body {
     width: 100%;
     height: 200px;
 }
+
+.jogar-novamente {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+    text-transform: uppercase;
+    color: black;
+    border-radius: 30px;
+    padding: 20px;
+    text-decoration: none;
+    transition: .2s;
+}
+
+.jogar-novamente:hover {
+    transition: .2s;
+    color: black;
+}
