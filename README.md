@@ -26,7 +26,7 @@
   <li>JavaScript</li>
 </ul>
 
-<h2 id="c-utilizar">Como Utilizar</h2>
+<h2 id="c-utilizar">:wrench: Como Utilizar</h2>
 
 ```
 #1 - Clone o repositório
