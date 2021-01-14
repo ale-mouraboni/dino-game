@@ -18,7 +18,7 @@
   <a href="#license">Licence</a> 
 </p>
 
-<h2 id="technology">Tecnologias</h2>
+<h2 id="technology">:globe_with_meridians: Tecnologias</h2>
 <p>Projeto desenvolvido com as seguintes tecnologias:</p>
 <ul>
   <li>HTML5</li>
