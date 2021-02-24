@@ -43,7 +43,7 @@ $ git clone https://github.com/ale-mouraboni/dino-game.git
 ## :heavy_check_mark: About
 <p>Um clone do famoso jogo do dinossauro que aparece no google chrome quando não há conexão de internet. Neste projeto há duas versões, a clássica e uma versão com algumas modificações minhas.
 </br>
-Esse projeto foi desenvolvido durante o bootcamp JavaScript Game Developer na plataforma Digital Innovation One.
+Esse projeto foi desenvolvido durante o bootcamp **JavaScript Game Developer** na plataforma **Digital Innovation One**.
 </p>
 
 ### Responsive?
