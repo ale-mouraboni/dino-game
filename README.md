@@ -1,38 +1,42 @@
-# Demo
-![Demo](readme/demo.png)
-![Demo](readme/demo-2.png)
-![Demo](readme/demo-3.png)
+![Demo](readme/demo.gif)
 
-## Menu
-* [Tecnologias](#Tecnologias)
-* [Como Utilizar](#Como-Utilizar)
-* [About](#About)
-* [Link do Curso](#Link-do-Curso)
-* [License](#License)
+---
 
-## Tecnologias
-Projeto desenvolvido com as seguintes tecnologias:
+<div style="text-align: justify">
+
+### Descrição
+Um clone do famoso Jogo do Dinossauro que aparece no Google Chrome quando não há conexão com a internet, esse é um projeto bem simples desenvolvido em JavaScript e existem 2 versões, a clássica e outra com algumas modificações minhas. Esse projeto foi desenvolvido durante o bootcamp JavaScript Game Developer da plataforma Digital Innovation One.
+
+</div>
+
+---
+
+#### Link da Plataforma:
+
+* [Digital Innovation One](https://digitalinnovation.one/)
+
+---
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 * HTML5
 * CSS3
 * JavaScript
 
-## Como Utilizar
-```
-1. - Clone o repositório
-$ git clone https://github.com/ale-mouraboni/dino-game.git
+---
 
-2. - Abra o index.html
-```
+Para ver o projeto você pode clonar ele com o seguinte comando:    
 
-## About
-Um clone do famoso jogo do dinossauro que aparece no google chrome quando não há conexão de internet.  
-Neste projeto há duas versões, a clássica e uma versão com algumas modificações minhas.  
-Esse projeto foi desenvolvido durante o bootcamp **JavaScript Game Developer** na plataforma **Digital Innovation One**.
+```sh
+git clone https://github.com/ale-mouraboni/dino-game.git
+```  
+  
+Você também pode baixar o arquivo .zip do projeto, basta clicar no botão abaixo.  
+  
+[Baixar Projeto](https://github.com/ale-mouraboni/dino-game/archive/refs/heads/main.zip)
 
-### Link do Curso:
+---
 
-* [Digital Innovation One - JavaScript Game Developer](https://digitalinnovation.one/)
-
-## License
+### License
 This project is under the MIT license. See the [LICENSE] for more information.
 
+---
